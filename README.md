@@ -29,7 +29,7 @@
 One-stop student platform providing curated resources & AI prompts  
 - Active community with **90+ members**  
 - Built & deployed independently
-- Orbiton Link - orbiton-tech.vercel.app
+- Orbiton Link - [https://orbiton-tech.vercel.app]
 
 ### 🔹 Softwraith (Intern – Web & Tech)
 Startup website built from scratch  
