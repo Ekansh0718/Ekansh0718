@@ -22,7 +22,6 @@
 **AI / ML**: AI Voice Agents, Prompt Engineering
 **Tools & Platforms**: Git, GitHub, Render, Vercel, VS Code, Postman, Thunder
 **Concepts**: Object-Oriented Programming, Data Structures & Algorithms, Software Development Lifecycle
-
 ---
 
 ## 🚀 Featured Work
