@@ -15,13 +15,15 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages**: Java, Python, Javascript
-**Frontend**: HTML5, CSS3, JavaScript (DOM Manipulation, Responsive Design), React.js
-**Backend**: Node.js, Express.js, REST APIs, JWT
-**Databases**: MongoDB, Firebase
-**AI / ML**: AI Voice Agents, Prompt Engineering
-**Tools & Platforms**: Git, GitHub, Render, Vercel, VS Code, Postman, Thunder
-**Concepts**: Object-Oriented Programming, Data Structures & Algorithms, Software Development Lifecycle
+
+**Languages**:  Java, Python, JavaScript  
+**Frontend**:  HTML5, CSS3, JavaScript (DOM Manipulation, Responsive Design), React.js  
+**Backend**:  Node.js, Express.js, REST APIs, JWT  
+**Databases**:  MongoDB, Firebase  
+**AI / ML**:  AI Voice Agents, Prompt Engineering  
+**Tools & Platforms**:  Git, GitHub, Render, Vercel, VS Code, Postman, Thunder  
+**Concepts**:  Object-Oriented Programming, Data Structures & Algorithms, Software Development Lifecycle
+
 
 ---
 ## 🚀 Featured Work
