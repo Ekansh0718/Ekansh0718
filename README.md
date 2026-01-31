@@ -15,11 +15,13 @@
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript  
-- **Backend:** Python (Basics)  
-- **AI / Voice:** Murf AI, Voice Agents, Prompt Engineering  
-- **Tools:** Git, GitHub, Vercel, Domain & Deployment
-- **Languages:** Python, C ,Java
+**Languages**: Java, Python, JavaScript
+**Frontend**: HTML5, CSS3, JavaScript (DOM Manipulation, Responsive Design), React.js
+**Backend**: Node.js, Express.js, REST APIs, JWT
+**Databases**: MongoDB, Firebase
+**AI / ML**: AI Voice Agents, Prompt Engineering
+**Tools & Platforms**: Git, GitHub, Render, Vercel, VS Code, Postman, Thunder
+**Concepts**: Object-Oriented Programming, Data Structures & Algorithms, Software Development Lifecycle
 
 ---
 
