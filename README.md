@@ -2,7 +2,7 @@
 
 🚀 Product-oriented Web Developer | AI & Voice Agent Builder  
 🎓 B.Tech CSE Student | Startup Intern | Community Builder  
-Portfolio: ekanshh.in
+🙋 Portfolio: ekanshh.in
 
 ---
 
